@@ -22,7 +22,7 @@ function concatenateText() {
     document.getElementById("result").textContent = "Inputs cleared!";
   }
   
-  // Add event listeners to the buttons
+  // TODO Add event listeners to the buttons
   function setupEventListeners() {
     
   }
